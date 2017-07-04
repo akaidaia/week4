@@ -1,0 +1,13 @@
+html {
+	font-size: 20px;
+}
+
+.bigger {
+	font-size: 2em;
+}
+
+.bigger span {
+	display: inline-block;
+	margin-top: 3rem;
+}
+
